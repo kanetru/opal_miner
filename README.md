@@ -17,6 +17,8 @@ The final output is a **GeoTIFF probability map** indicating likelihood of miner
 
 ---
 
+![Alt text](kanetru/opal_miner/buffered_thargomindah_camp.jpeg)
+
 # Pipeline Workflow
 
 ## 1. User Click → Tile Selection
